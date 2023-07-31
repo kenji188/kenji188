@@ -26,7 +26,7 @@
 
 ### 📊 Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Tyreece-Leishman&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kenji188&theme=radical)
 
 
 #
