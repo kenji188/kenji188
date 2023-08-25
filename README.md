@@ -1,4 +1,4 @@
-# [👋 Tyler Shaw](https://user-images.githubusercontent.com/116001061/262144127-3c984e93-723e-497b-9e3d-47e60ab29a5e.gif)
+# Tyler Shaw
 
 **`Aspiring Front-end Web Developer ( 🌐 HTML | 🎨 CSS | 🚀 JavaScript |📱 Responsive Web Design | 🛠️ Problem-Solving |🐞 Debugging | 🧪 Testing |🔧 Version Control)`**
 
