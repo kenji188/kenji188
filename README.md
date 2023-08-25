@@ -1,4 +1,4 @@
-# Tyler Shaw
+# 👋Tyler Shaw
 
 **`Aspiring Front-end Web Developer ( 🌐 HTML | 🎨 CSS | 🚀 JavaScript |📱 Responsive Web Design | 🛠️ Problem-Solving |🐞 Debugging | 🧪 Testing |🔧 Version Control)`**
 
